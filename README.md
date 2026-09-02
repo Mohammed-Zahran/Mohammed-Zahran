@@ -40,9 +40,11 @@ I'm a 3rd-year Software Engineering student who enjoys building complete systems
 [https://github.com/Mohammed-Zahran/golden-health-portal-showcase]
 
 **🧪 Automated E2E Testing Suite**
+
 Built Selenium-based E2E tests for authentication, registration, and OTP verification flows, achieving 100% pass rate across target workflows.
 
 **📋 WA-CRM Requirements Analysis**
+
 Independently analyzed an existing application and produced a full Business Requirements Document — 11 functional and 6 non-functional requirements, user stories, and process diagrams.
 
 ---
