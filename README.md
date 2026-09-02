@@ -36,7 +36,7 @@ I'm a 3rd-year Software Engineering student who enjoys building complete systems
 ### 💼 Featured Projects
 
 **🏋️ Gym Management Ecosystem**
-A 3-tier system (Laravel member portal, public website, React Native mobile app). I owned member registration, payments, and an AI-powered nutrition tracking feature (Gemini API integration).
+github.com/Mohammed-Zahran/golden-health-portal-showcase
 
 **🧪 Automated E2E Testing Suite**
 Built Selenium-based E2E tests for authentication, registration, and OTP verification flows, achieving 100% pass rate across target workflows.
